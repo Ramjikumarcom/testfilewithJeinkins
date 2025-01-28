@@ -8,6 +8,7 @@ int main(){
     printf("this is final value of d");
     printf("now it is update by the jenkins");
     int k=10;
-    printf("the value of k is %d ",k);
+    int j=890;
+    printf("the value of k is %d ",j);
     return 0;
 }
