@@ -7,5 +7,7 @@ int main(){
     printf("the vlaue of a and b and cis %d ",d);
     printf("this is final value of d");
     printf("now it is update by the jenkins");
+    int k=10;
+    printf("the value of k is %d ",k);
     return 0;
 }
