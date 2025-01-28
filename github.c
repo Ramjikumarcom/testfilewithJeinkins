@@ -5,5 +5,6 @@ int main(){
     int c=90;
     int d=a+b-c;
     printf("the vlaue of a and b and cis %d ",d);
+    printf("this is final value of d")
     return 0;
 }
