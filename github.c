@@ -9,6 +9,7 @@ int main(){
     printf("now it is update by the jenkins");
     int k=10;
     int j=890;
+    int p=3803;
     printf("the value of k is %d ",j);
     return 0;
 }
