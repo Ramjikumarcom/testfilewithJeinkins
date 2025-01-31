@@ -13,6 +13,7 @@ int main(){
     int m=9088;
     
     printf("this is my book");
+    printf("hii hwo are you");
     printf("the value of k is %d ",j);
     return 0;
 }
